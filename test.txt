@@ -4,4 +4,7 @@ habit
 
 test
 
-stash1122122
+<<<<<<< Updated upstream
+
+stash
+>>>>>>> Stashed changes
